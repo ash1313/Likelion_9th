@@ -65,12 +65,12 @@ Django 프로젝트를 이루는 작은 단위
 
 html에서 파이썬 변수와 문법을 사용하게 해주는 언어
 
-``{%for(if)~~~~%}
+#{%for(if)~~~~%}
 
   ...
 
-  {%endfor(if)%}
-``
+#{%endfor(if)%}
+
 + {{변수명}}
 + ![image-20210605161852588](C:\Users\안효준\AppData\Roaming\Typora\typora-user-images\image-20210605161852588.png)
 + ![image-20210605161906425](C:\Users\안효준\AppData\Roaming\Typora\typora-user-images\image-20210605161906425.png)
