@@ -32,5 +32,7 @@
 + [Django시작하기.md](https://github.com/ash1313/Likelion_9th/blob/34935e9b882d7f28a4dbb158415595109a78e70d/Django%20settings/Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 ## 4. Django
-
++ [Django.md](https://github.com/ash1313/Likelion_9th/blob/bf65a5582f4a1efa1a02b16e2dd088124f2d441e/Django/Django.md)
++ [templete상속~.md](https://github.com/ash1313/Likelion_9th/blob/bf65a5582f4a1efa1a02b16e2dd088124f2d441e/Django/templete%EC%83%81%EC%86%8D~.md)
++ [배포.md](https://github.com/ash1313/Likelion_9th/blob/bf65a5582f4a1efa1a02b16e2dd088124f2d441e/Django/templete%EC%83%81%EC%86%8D~.md)
 
