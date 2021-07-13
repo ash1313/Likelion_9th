@@ -34,5 +34,5 @@
 ## 4. Django
 + [Django.md](https://github.com/ash1313/Likelion_9th/blob/bf65a5582f4a1efa1a02b16e2dd088124f2d441e/Django/Django.md)
 + [templete상속~.md](https://github.com/ash1313/Likelion_9th/blob/bf65a5582f4a1efa1a02b16e2dd088124f2d441e/Django/templete%EC%83%81%EC%86%8D~.md)
-+ [배포.md](https://github.com/ash1313/Likelion_9th/blob/bf65a5582f4a1efa1a02b16e2dd088124f2d441e/Django/templete%EC%83%81%EC%86%8D~.md)
++ [배포.md](https://github.com/ash1313/Likelion_9th/blob/103fb719a150b7d07a56fb5726e993f59e026025/Django/%EB%B0%B0%ED%8F%AC.md)
 
